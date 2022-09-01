@@ -14,9 +14,9 @@ r =  math.sqrt(b**2 + c**2)
 print(r)
 
 #Calcular la formula general en python#
-a = float(input("Ingrese numero a"))
-b = float(input("Ingrese numero b"))
-c = float(input("Ingrese numero c"))
+a = float(input("Ingrese numero a/n"))
+b = float(input("Ingrese numero b/n"))
+c = float(input("Ingrese numero c/n"))
 
 x=b**2-4*a*c
 if x<0:
